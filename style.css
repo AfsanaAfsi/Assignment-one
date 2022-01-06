@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lora', serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left:5%;
+}
+.half-width img{
+    width: 70%;
+}
+.linkup-button{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(224, 76, 56, 0.836);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
