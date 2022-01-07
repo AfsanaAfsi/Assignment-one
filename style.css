@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h3{
+    margin-top: 8%;
+}
 p{
     font-size: 20px;
 }
@@ -13,7 +16,7 @@ p{
 }
 #border-line{
     border-left: 7px solid;
-    border-color: rgb(170, 73, 105);
+    border-color: rgb(102, 50, 26);
     border-radius: 15px;
 }
 .flexible-container{
